@@ -252,8 +252,11 @@ export default function LandingPage({
           <div className="footer-links">
             <button onClick={onLaunchListener}>Music Player</button>
             <button onClick={onLaunchAdmin}>Doctor Portal</button>
-            <span>AIIMS Geriatric Protocol Compliant</span>
+            <span>Evidence-Based Geriatric Supportive Protocol</span>
           </div>
+        </div>
+        <div className="footer-disclaimer-box" style={{ maxWidth: 1100, margin: '20px auto 0', padding: '14px 20px', borderTop: '1px solid rgba(255,255,255,0.08)', textAlign: 'center', fontSize: '0.78rem', color: 'rgba(255,255,255,0.45)', lineHeight: 1.5 }}>
+          <strong>Medical & Regulatory Disclaimer:</strong> Smaran is an assistive, non-pharmacological supportive platform designed for autobiographical music reminiscence and caregiver support. It is not a clinical diagnostic system, medical treatment, or pharmaceutical cure. All therapeutic sessions and health tracking operate under a caregiver/proxy consent model in consultation with licensed medical professionals.
         </div>
       </footer>
     </div>

@@ -1,0 +1,15 @@
+services:
+  beatbot-care:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      PORT: 8080
+      BEATBOT_DATA_FILE: /app/data/beatbot.json
+      VITAL_WEBHOOK_SECRET: ${VITAL_WEBHOOK_SECRET:?Set a strong secret in your environment}
+      DEMO_MODE: "true"
+    volumes:
+      - beatbot-data:/app/data
+
+volumes:
+  beatbot-data:

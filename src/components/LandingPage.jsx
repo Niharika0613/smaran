@@ -81,7 +81,7 @@ export default function LandingPage({
                 <div className="disc-grooves" />
                 <div className="disc-center-label">
                   <img
-                    src="https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=400&q=80"
+                    src="/memories/varanasi_wedding_1972.jpg"
                     alt="Varanasi Wedding 1972"
                     className="disc-label-photo"
                   />

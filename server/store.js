@@ -43,7 +43,7 @@ const seededData = {
           photos: [
             {
               id: 'pn-1',
-              url: 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=800&q=80',
+              url: '/memories/lucknow_hazratganj_1968.jpg',
               caption: 'Childhood home in Hazratganj, Lucknow, 1968'
             }
           ]
@@ -61,7 +61,7 @@ const seededData = {
           photos: [
             {
               id: 'pn-2',
-              url: 'https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=800&q=80',
+              url: '/memories/varanasi_wedding_1972.jpg',
               caption: 'Anand & Nirmala wedding ceremony, Varanasi, December 1972'
             }
           ]
@@ -79,7 +79,7 @@ const seededData = {
           photos: [
             {
               id: 'pn-3',
-              url: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80',
+              url: '/memories/shimla_hills_1976.jpg',
               caption: 'Shimla pine hills family journey, June 1976'
             }
           ]
@@ -97,7 +97,7 @@ const seededData = {
           photos: [
             {
               id: 'pn-4',
-              url: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80',
+              url: '/memories/vintage_radio_1985.jpg',
               caption: 'Courtyard morning with son Rahul, 1985'
             }
           ]
@@ -182,7 +182,7 @@ const seededData = {
           photos: [
             {
               id: 'pr-1',
-              url: 'https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80',
+              url: '/memories/ima_dehradun_1965.jpg',
               caption: 'IMA Dehradun commissioning parade, 1965'
             }
           ]
@@ -200,7 +200,7 @@ const seededData = {
           photos: [
             {
               id: 'pr-2',
-              url: 'https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=800&q=80',
+              url: '/memories/vintage_radio_1985.jpg',
               caption: 'Officers mess evening gathering, Punjab 1970'
             }
           ]
@@ -218,7 +218,7 @@ const seededData = {
           photos: [
             {
               id: 'pr-3',
-              url: 'https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80',
+              url: '/memories/varanasi_wedding_1972.jpg',
               caption: 'Pune monsoon celebration with Sunita, 1975'
             }
           ]
@@ -273,8 +273,8 @@ const seededData = {
           photos: [
             {
               id: 'pa-1',
-              url: 'https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80',
-              caption: 'College Street gathering, Kolkata 1971'
+              url: '/memories/kolkata_coffee_house_1971.jpg',
+              caption: 'College Street tram & heritage, Kolkata 1971'
             }
           ]
         }

@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import {
-  Activity, AlertTriangle, ArrowRight, Award, Bell, Bookmark, CalendarDays,
+  Activity, AlertTriangle, ArrowRight, Award, Bell, Bookmark, CalendarDays, Camera,
   CheckCircle2, ChevronDown, ChevronRight, Clock3, Download, FileText,
   HeartPulse, HelpCircle, History, Info, Layers, LayoutDashboard, Library,
   ListMusic, MessageSquarePlus, MoreHorizontal, Music2, Pause, Play, Plus,
